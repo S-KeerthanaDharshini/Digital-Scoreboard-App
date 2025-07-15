@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href = "index.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap" rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="container">
+            <div>
+                <h3 id="topic">HOME</h3>
+                <!-- for inside the scoreboard-->
+                <div class="blackboard">
+                    <p class="score" id="home">0</p>
+                </div>
+                <!--div for only buttons-->
+                <div id="buttonpos">
+                <button id="buttondecor"  onclick="addOne()">+ 1</button>
+                <button id="buttondecor"  onclick="addTwo()">+2</button>
+                <button id="buttondecor"  onclick="addThree()">+3</button>
+                
+                
+                </div>
+                <div id="resetpos">
+                        <button id="buttondecor" onclick="homeReset()">Reset</button>
+                </div>
+                </div>
+                <div>
+                <h3 id="topic">GUEST</h3>
+                <div class="blackboard">
+                    <p class="score" id="guest">0</p>
+                </div> 
+                 <div id="buttonpos">
+                <button id="buttondecor" onclick="gaddOne()">+ 1</button>
+                <button id="buttondecor" onclick="gaddTwo()">+2</button>
+                <button id="buttondecor" onclick="gaddThree()">+3</button>
+            </div>
+            <div id="resetpos">
+                <button id="buttondecor" onclick="guestReset()">Reset</button>
+        </div>
+            </div>
+            </div>
+        </div>
+        <script src =index.js></script>
+    </body>
+</html>
