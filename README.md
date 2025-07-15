@@ -39,5 +39,5 @@ A responsive and interactive **scoreboard web app** built using **HTML**, **CSS*
 
 ## 📬 Contact
 
-Feel free to explore more projects on my GitHub or [connect with me](linkedin.com/in/keerthana211701)!
+Feel free to explore more projects on my GitHub or [connect with me](https://www.linkedin.com/in/keerthana-saravanan-a8647923b/)!
 
