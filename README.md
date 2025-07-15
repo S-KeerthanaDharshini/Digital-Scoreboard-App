@@ -16,7 +16,7 @@ A responsive and interactive **scoreboard web app** built using **HTML**, **CSS*
 
 ## 🖼️ Preview
 
-![Scoreboard Preview](preview.png)
+![Scoreboard Preview](https://github.com/S-KeerthanaDharshini/Digital-Scoreboard-App/blob/main/Basketball%20Scoreboard/output.png)
 
 
 ## 📦 Tech Stack
